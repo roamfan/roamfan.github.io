@@ -5,6 +5,7 @@ permalink: /links/
 ---
 # China Related 
 
+0. [[SCMP] How China is still paying the price for squandering its chance to build a home-grown semiconductor industry](https://www.scmp.com/tech/big-tech/article/3024687/how-china-still-paying-price-squandering-its-chance-build-home-grown)
 0. [[Project Syndicate] Sustainability with Chinese Characteristics](https://www.project-syndicate.org/commentary/china-demonstrating-climate-leadership-by-stephen-s-roach-2019-09)
 0. [[新华网] 1966年：“文化大革命”十年内乱开始 ](http://www.xinhuanet.com/2019-09/27/c_1125049852.htm)
 0. [[新华网] 《平凡的世界》等入选“新中国70年70部长篇小说典藏”](http://www.xinhuanet.com/book/2019-09/23/c_1210289789.htm)
@@ -13,6 +14,13 @@ permalink: /links/
 
 # Everything Else
 
+0. [[Spears's] Goldman at 150: How the ‘vampire squid’ became the world’s totemic bank](https://www.spearswms.com/goldman-sachs-spears/)
+0. [The PIE Environment for First-Order-Based Proving, Interpolating and Eliminating](http://cs.christophwernhard.com/pie/)
+0. [[FP] The American Working Man Still Isn’t Working](https://www.foreignaffairs.com/articles/united-states/2019-09-19/american-working-man-still-isnt-working)
+0. [The principle of maximum entropy](https://acgan.sh/posts/2019-01-01-maximum-entropy.html)
+0. [[Axios] Special report: Higher education's existential crisis](https://www.axios.com/colleges-universities-crisis-e437549e-b5ad-4e6c-8bab-f32db1065d14.html)
+0. [[ACM] Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
+0. [[MIT Press] On Language and Humanity: In Conversation With Noam Chomsky](https://thereader.mitpress.mit.edu/noam-chomsky-interview/)
 0. [[FT] Blockchain: disillusionment descends on financial services](https://www.ft.com/content/93140eac-9cbb-11e9-9c06-a4640c9feebb)
 0. [Project Tuva: Richard Feynman’s Messenger Lecture Series](https://www.microsoft.com/en-us/research/project/tuva-richard-feynman/)
 0. [Isomer](https://isomer.gov.sg/)
