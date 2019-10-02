@@ -1,19 +1,16 @@
 ---
 layout: page
-title: Links
-permalink: /links/
+title: Everything Else
+permalink: /other-links/
 ---
-# China Related 
 
-0. [[SCMP] How China is still paying the price for squandering its chance to build a home-grown semiconductor industry](https://www.scmp.com/tech/big-tech/article/3024687/how-china-still-paying-price-squandering-its-chance-build-home-grown)
-0. [[Project Syndicate] Sustainability with Chinese Characteristics](https://www.project-syndicate.org/commentary/china-demonstrating-climate-leadership-by-stephen-s-roach-2019-09)
-0. [[新华网] 1966年：“文化大革命”十年内乱开始 ](http://www.xinhuanet.com/2019-09/27/c_1125049852.htm)
-0. [[新华网] 《平凡的世界》等入选“新中国70年70部长篇小说典藏”](http://www.xinhuanet.com/book/2019-09/23/c_1210289789.htm)
-0. [[新华网] 中华人民共和国大事记](http://www.xinhuanet.com/politics/2019-09/27/c_1125049752.htm) 
-0. [[新华网] 中共中央印发《中国共产党重大事项请示报告条例》](http://www.xinhuanet.com/politics/2019-02/28/c_1124177187.htm)
-
-# Everything Else
-
+0. [[Boston Review] The Harvard Ruling Misses the Point](https://bostonreview.net/class-inequality-law-justice/richard-ford-harvard-ruling-misses-point)
+0. [Enterprise Software is Dead](https://capiche.com/p/enterprise-software-is-dead)
+0. [[SFI] Inequality: What we’ve learned from the ‘Robots of the late Neolithic’](https://santafe.edu/news-center/news/-inequality-what-weve-learned-robots-late-neolithic)
+0. [[Fast Company] The fall of WeWork’s Adam Neumann](https://www.fastcompany.com/90410492/the-fall-of-weworks-adam-neumann)
+0. [What do executives do, anyway?](https://apenwarr.ca/log/20190926)
+0. [Legacy and Athlete Preferences at Harvard](http://public.econ.duke.edu/~psarcidi/legacyathlete.pdf)
+0. [[Quillette] The Human Skills AI Can’t Replace](https://quillette.com/2019/09/25/the-human-skills-ai-cant-replace/)
 0. [[Spears's] Goldman at 150: How the ‘vampire squid’ became the world’s totemic bank](https://www.spearswms.com/goldman-sachs-spears/)
 0. [The PIE Environment for First-Order-Based Proving, Interpolating and Eliminating](http://cs.christophwernhard.com/pie/)
 0. [[FP] The American Working Man Still Isn’t Working](https://www.foreignaffairs.com/articles/united-states/2019-09-19/american-working-man-still-isnt-working)
