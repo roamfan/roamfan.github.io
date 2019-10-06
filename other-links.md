@@ -4,6 +4,23 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+
+0. [[NASA] Basic Comparison of Python, Julia, Matlab, IDL and Java (2019 Edition)](https://modelingguru.nasa.gov/docs/DOC-2783)
+0. [[NYRB] What the Apps That Bring Food to Your Door Mean for Delivery Workers](https://www.nybooks.com/daily/2019/09/20/what-the-apps-that-bring-food-to-your-door-mean-for-delivery-workers/)
+0. [Cargo Cult Science](http://calteches.library.caltech.edu/51/2/CargoCult.htm)
+0. [[NYT] The Middle-Class Crunch: A Look at 4 Family Budgets](https://www.nytimes.com/interactive/2019/10/03/your-money/middle-class-income.html)
+0. [[WSJ] The Race to Zero Commissions](https://www.wsj.com/articles/the-race-to-zero-commissions-11570267802)
+0. [Futility Closet](https://www.futilitycloset.com/)
+0. [Strategies for Long Projects](http://benbrostoff.github.io/2019/09/28/long-projects.html)
+0. [[FT] Special Report: Future of Fintech](https://www.ft.com/reports/future-of-fintech)
+0. [Pricing niche products: Why sell a mechanical keyboard kit for $1,668?](https://kevinlynagh.com/notes/pricing-niche-products/)
+0. [wikiBudgets](https://www.wikibudgets.org/)
+0. [The Idea Maze](http://cdixon.org/2013/08/04/the-idea-maze/)
+0. [What is Good About Haskell?](https://doisinkidney.com/posts/2019-10-02-what-is-good-about-haskell.html)
+0. [[Bloomberg] How to Succeed in Business? Major in Liberal Arts](https://www.bloomberg.com/opinion/articles/2019-10-04/tech-should-look-beyond-stem-and-covet-liberal-arts-grads)
+0. [[The Economist] The rise of the financial machines](https://www.economist.com/leaders/2019/10/03/the-rise-of-the-financial-machines)
+0. [[The Paris Review] The Aesthetic Beauty of Math](https://www.theparisreview.org/blog/2019/07/22/the-aesthetic-beauty-of-math/)
+0. [Open Mobility Foundation](https://www.openmobilityfoundation.org/)
 0. [[Boston Review] The Harvard Ruling Misses the Point](https://bostonreview.net/class-inequality-law-justice/richard-ford-harvard-ruling-misses-point)
 0. [Enterprise Software is Dead](https://capiche.com/p/enterprise-software-is-dead)
 0. [[SFI] Inequality: What we’ve learned from the ‘Robots of the late Neolithic’](https://santafe.edu/news-center/news/-inequality-what-weve-learned-robots-late-neolithic)

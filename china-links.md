@@ -4,6 +4,7 @@ title: China Related
 permalink: /china-links/
 ---
 
+0. [[CSIS] Beyond the Brink: Escalation and Conflict in U.S.-China Economic Relations](https://www.csis.org/analysis/csis-brief-beyond-brink-escalation-and-conflict-us-china-economic-relations)
 0. [[SCMP] How China is still paying the price for squandering its chance to build a home-grown semiconductor industry](https://www.scmp.com/tech/big-tech/article/3024687/how-china-still-paying-price-squandering-its-chance-build-home-grown)
 0. [[Project Syndicate] Sustainability with Chinese Characteristics](https://www.project-syndicate.org/commentary/china-demonstrating-climate-leadership-by-stephen-s-roach-2019-09)
 0. [[新华网] 1966年：“文化大革命”十年内乱开始 ](http://www.xinhuanet.com/2019-09/27/c_1125049852.htm)
