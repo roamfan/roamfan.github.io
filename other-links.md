@@ -4,7 +4,8 @@ title: Everything Else
 permalink: /other-links/
 ---
 
-
+0. [[Bloomberg] What Economists (Including Me) Got Wrong About Globalization](https://www.bloomberg.com/opinion/articles/2019-10-10/inequality-globalization-and-the-missteps-of-1990s-economics)
+0. [[American Affairs] The Financialization of the American Elite](https://americanaffairsjournal.org/2019/08/the-financialization-of-the-american-elite/)
 0. [[NASA] Basic Comparison of Python, Julia, Matlab, IDL and Java (2019 Edition)](https://modelingguru.nasa.gov/docs/DOC-2783)
 0. [[NYRB] What the Apps That Bring Food to Your Door Mean for Delivery Workers](https://www.nybooks.com/daily/2019/09/20/what-the-apps-that-bring-food-to-your-door-mean-for-delivery-workers/)
 0. [Cargo Cult Science](http://calteches.library.caltech.edu/51/2/CargoCult.htm)
