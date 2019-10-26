@@ -4,7 +4,16 @@ title: Everything Else
 permalink: /other-links/
 ---
 
-
+0. [[NYT] In a Strong Economy, Why Are So Many Workers on Strike?](https://www.nytimes.com/2019/10/19/business/economy/workers-strike-economy.html)
+0. [[Foreign Affairs] Max Weber Diagnosed His Time and Ours](https://www.foreignaffairs.com/articles/central-europe/2019-07-24/max-weber-diagnosed-his-time-and-ours)
+0. [[Forbes] Alternative Data: It's Not Just For Finance](https://www.forbes.com/sites/forbestechcouncil/2019/10/01/alternative-data-its-not-just-for-finance/#4c3e731d2288)
+0. [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/)
+0. [2020-2024 MTA Capital Program](https://new.mta.info/2020CapitalProgram)
+0. [NYC: The Next Decade of Open Data](https://www1.nyc.gov/assets/doitt/downloads/pdf/Open-Data-For-All-Report-2019.pdf)
+0. [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+0. [A Sociology of Steve Jobs](https://kieranhealy.org/blog/archives/2011/10/10/a-sociology-of-steve-jobs/)
+0. [[Slate] “The Child Is Made to Study Far, Far Beyond His Physical Strength”](https://slate.com/human-interest/2019/10/parents-complaining-about-homework-history.html)
+0. [[Collaborative Fund] Three Big Things: The Most Important Forces Shaping the World](https://www.collaborativefund.com/blog/three-big-things-the-most-important-forces-shaping-the-world/)
 0. [[NASA] Basic Comparison of Python, Julia, Matlab, IDL and Java (2019 Edition)](https://modelingguru.nasa.gov/docs/DOC-2783)
 0. [[NYRB] What the Apps That Bring Food to Your Door Mean for Delivery Workers](https://www.nybooks.com/daily/2019/09/20/what-the-apps-that-bring-food-to-your-door-mean-for-delivery-workers/)
 0. [Cargo Cult Science](http://calteches.library.caltech.edu/51/2/CargoCult.htm)
