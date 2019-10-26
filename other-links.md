@@ -4,6 +4,14 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[The Economist] In praise of dissenters](https://www.economist.com/business/2019/10/10/in-praise-of-dissenters)
+0. [[The Economist] How to change emotions with a word](https://www.economist.com/science-and-technology/2018/05/03/how-to-change-emotions-with-a-word)
+0. [[The Economist] The stockmarket is now run by computers, algorithms and passive managers](https://www.economist.com/briefing/2019/10/05/the-stockmarket-is-now-run-by-computers-algorithms-and-passive-managers)
+0. [[NYRB] What Happened to the West Village?](https://www.nybooks.com/daily/2019/10/09/what-happened-to-the-west-village/)
+0. [[NYT] You Can Disagree Better](https://www.nytimes.com/interactive/2019/09/18/opinion/peter-boghossian-interview.html)
+0. [[HBR] When TED Lost Control of Its Crowd](https://hbr.org/2013/04/when-ted-lost-control-of-its-crowd)
+0. [Dark Patterns](https://www.darkpatterns.org/)
+0. [[The Economist] From rags to Richer](https://www.economist.com/business/2019/10/03/from-rags-to-richer)
 0. [[Bloomberg] What Economists (Including Me) Got Wrong About Globalization](https://www.bloomberg.com/opinion/articles/2019-10-10/inequality-globalization-and-the-missteps-of-1990s-economics)
 0. [[American Affairs] The Financialization of the American Elite](https://americanaffairsjournal.org/2019/08/the-financialization-of-the-american-elite/)
 0. [[NASA] Basic Comparison of Python, Julia, Matlab, IDL and Java (2019 Edition)](https://modelingguru.nasa.gov/docs/DOC-2783)

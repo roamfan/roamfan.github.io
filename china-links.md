@@ -4,6 +4,7 @@ title: China Related
 permalink: /china-links/
 ---
 
+0. [[FP] The Untold Story of How George W. Bush Lost China](https://foreignpolicy.com/2019/10/04/the-untold-story-of-how-george-w-bush-lost-china/)
 0. [[American Affairs] China and the Rule of Law](https://americanaffairsjournal.org/2019/08/china-and-the-rule-of-law/)
 0. [[CSIS] Beyond the Brink: Escalation and Conflict in U.S.-China Economic Relations](https://www.csis.org/analysis/csis-brief-beyond-brink-escalation-and-conflict-us-china-economic-relations)
 0. [[SCMP] How China is still paying the price for squandering its chance to build a home-grown semiconductor industry](https://www.scmp.com/tech/big-tech/article/3024687/how-china-still-paying-price-squandering-its-chance-build-home-grown)
