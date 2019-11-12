@@ -4,6 +4,9 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [Deep Leaning](http://www.deeplearningbook.org/)
+0. [[New Yorker]The Slowness of Literature and the Shadow of Knowledge](https://www.newyorker.com/books/page-turner/the-slowness-of-literature-and-the-shadow-of-knowledge)
+0. [[WSJ] The Rising Threat of Digital Nationalism](https://www.wsj.com/articles/the-rising-threat-of-digital-nationalism-11572620577)
 0. [[The Economist] In praise of dissenters](https://www.economist.com/business/2019/10/10/in-praise-of-dissenters)
 0. [[The Economist] How to change emotions with a word](https://www.economist.com/science-and-technology/2018/05/03/how-to-change-emotions-with-a-word)
 0. [[The Economist] The stockmarket is now run by computers, algorithms and passive managers](https://www.economist.com/briefing/2019/10/05/the-stockmarket-is-now-run-by-computers-algorithms-and-passive-managers)
