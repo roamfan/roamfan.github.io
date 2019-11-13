@@ -4,6 +4,10 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[Wired] What's Blockchain Actually Good for, Anyway? For Now, Not Much](https://www.wired.com/story/whats-blockchain-good-for-not-much/)
+0. [[NYT] Adam Neumann and the Art of Failing Up](https://www.nytimes.com/2019/11/02/business/adam-neumann-wework-exit-package.html)
+0. [[FT] The Man Who Solved the Market — how Jim Simons built a moneymaking machine](https://www.ft.com/content/868d0902-f0b4-11e9-ad1e-4367d8281195)
+0. [Constraints that Enable Innovation](https://vimeo.com/128934608)
 0. [[The Economist] In praise of dissenters](https://www.economist.com/business/2019/10/10/in-praise-of-dissenters)
 0. [[The Economist] How to change emotions with a word](https://www.economist.com/science-and-technology/2018/05/03/how-to-change-emotions-with-a-word)
 0. [[The Economist] The stockmarket is now run by computers, algorithms and passive managers](https://www.economist.com/briefing/2019/10/05/the-stockmarket-is-now-run-by-computers-algorithms-and-passive-managers)
