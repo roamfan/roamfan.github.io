@@ -4,6 +4,11 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [Preventing Injury: 8 Best Hand and Wrist Exercises for Computer Users](http://ergonomictrends.com/hand-wrist-exercises-computer-users/)
+0. [[New Yorker] Man and Things](https://www.newyorker.com/books/page-turner/man-and-things)
+0. [[BBC] Pointless work meetings 'really a form of therapy'](https://www.bbc.com/news/education-50418317)
+0. [[Medium] The Unparalleled Genius of John von Neumann](https://medium.com/cantors-paradise/the-unparalleled-genius-of-john-von-neumann-791bb9f42a2d)
+0. [[LARB] Who Needs Literature?](https://lareviewofbooks.org/article/who-needs-literature/)
 0. [[Wired] What's Blockchain Actually Good for, Anyway? For Now, Not Much](https://www.wired.com/story/whats-blockchain-good-for-not-much/)
 0. [[NYT] Adam Neumann and the Art of Failing Up](https://www.nytimes.com/2019/11/02/business/adam-neumann-wework-exit-package.html)
 0. [[FT] The Man Who Solved the Market — how Jim Simons built a moneymaking machine](https://www.ft.com/content/868d0902-f0b4-11e9-ad1e-4367d8281195)
