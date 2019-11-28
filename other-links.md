@@ -4,6 +4,9 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] Repo: How the financial markets' plumbing got blocked](https://ig.ft.com/repo-rate/)
+0. [[WSJ] OK Boomer, Who’s Going to Buy Your 21 Million Homes?](https://www.wsj.com/articles/ok-boomer-whos-going-to-buy-your-21-million-homes-11574485201)
+0. [[Vanity Fair] “You Don’t Bring Bad News to the Cult Leader”: Inside the Fall of WeWork](https://www.vanityfair.com/news/2019/11/inside-the-fall-of-wework)
 0. [Preventing Injury: 8 Best Hand and Wrist Exercises for Computer Users](http://ergonomictrends.com/hand-wrist-exercises-computer-users/)
 0. [[New Yorker] Man and Things](https://www.newyorker.com/books/page-turner/man-and-things)
 0. [[BBC] Pointless work meetings 'really a form of therapy'](https://www.bbc.com/news/education-50418317)
