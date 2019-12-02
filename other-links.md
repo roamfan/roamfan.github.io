@@ -4,6 +4,12 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[LA Times] Opinion: Math scares your child’s elementary school teacher — and that should frighten you](https://www.latimes.com/opinion/story/2019-11-21/math-anxiety-elementary-teacher)
+0. [Software Engineering Promotions: Advice to Get to That Next Level](https://blog.pragmaticengineer.com/software-engineering-promotions/)
+0. [CCPA and GDPR Comparison Chart](https://www.bakerlaw.com/webfiles/Privacy/2018/Articles/CCPA-GDPR-Chart.pdf)
+0. [[New York] ‘At What Point Does Malfeasance Become Fraud?’: NYU Biz-School Professor Scott Galloway on WeWork](http://nymag.com/intelligencer/2019/10/marketing-expert-scott-galloway-on-wework-and-adam-neumann.html)
+0. [[Inc.] Is the Culture in Your Company Toxic? Here are 3 Telltale Signs](https://www.inc.com/tanya-prive/is-culture-in-your-company-toxic-here-are-3-telltale-signs.html)
+0. [Lessons learned building an ML trading system that turned $5k into $200k](https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/)
 0. [[FT] Repo: How the financial markets' plumbing got blocked](https://ig.ft.com/repo-rate/)
 0. [[WSJ] OK Boomer, Who’s Going to Buy Your 21 Million Homes?](https://www.wsj.com/articles/ok-boomer-whos-going-to-buy-your-21-million-homes-11574485201)
 0. [[Vanity Fair] “You Don’t Bring Bad News to the Cult Leader”: Inside the Fall of WeWork](https://www.vanityfair.com/news/2019/11/inside-the-fall-of-wework)
@@ -86,3 +92,4 @@ permalink: /other-links/
 0. [[flickr] Maps of Strange Borders](https://www.flickr.com/photos/amapple/sets/72157616310862857/)
 0. [[Nature] Novelist Cormac McCarthy’s tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5)
 <!-- {: reversed="reversed"} -->
+  
