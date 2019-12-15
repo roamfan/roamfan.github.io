@@ -4,6 +4,10 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [The Holloway Syllabus on Company Culture](https://www.holloway.com/s/syllabus-company-culture)
+0. [Narcissistic CEOs Weaken Collaboration and Integrity](https://www.gsb.stanford.edu/insights/narcissistic-ceos-weaken-collaboration-integrity)
+0. [Makers, Don't Let Yourself Be Forced Into the 'Manager Schedule'](https://blog.nuclino.com/makers-don-t-let-yourself-be-forced-into-the-manager-schedule)
+0. [[LRB] The Young Man One Hopes For](https://www.lrb.co.uk/v41/n22/jonathan-ree/the-young-man-one-hopes-for)
 0. [[LA Times] Opinion: Math scares your child’s elementary school teacher — and that should frighten you](https://www.latimes.com/opinion/story/2019-11-21/math-anxiety-elementary-teacher)
 0. [Software Engineering Promotions: Advice to Get to That Next Level](https://blog.pragmaticengineer.com/software-engineering-promotions/)
 0. [CCPA and GDPR Comparison Chart](https://www.bakerlaw.com/webfiles/Privacy/2018/Articles/CCPA-GDPR-Chart.pdf)
