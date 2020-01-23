@@ -4,6 +4,14 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] Angela Merkel warns EU: ‘Brexit is a wake-up call’](https://www.ft.com/content/a6785028-35f1-11ea-a6d3-9a26f8c3cba4)
+0. [[FT] What companies can learn from a Cambridge physics laboratory](https://www.ft.com/content/e6172084-1aac-11ea-81f0-0c253907d3e0)
+0. [[HBR] Why “Move Fast and Break Things” Doesn’t Work Anymore](https://hbr.org/2019/12/why-move-fast-and-break-things-doesnt-work-anymore)
+0. [Our Neophobic, Conservative AI Overlords Want Everything to Stay the Same](http://blog.lareviewofbooks.org/provocations/neophobic-conservative-ai-overlords-want-everything-stay/)
+0. [Google’s quantum bet on the future of AI—and what it means for humanity](https://www.fastcompany.com/90396213/google-quantum-supremacy-future-ai-humanity)
+0. [Lessons for capitalism from the East India Company](https://www.ft.com/content/0f1ec9da-c9a6-11e9-af46-b09e8bfe60c0)
+0. [State of Startups 2019](https://stateofstartups2019.firstround.com/)
+0. [[WSJ] The Money Men Who Enabled Adam Neumann and the WeWork Debacle](https://www.wsj.com/articles/the-money-men-who-enabled-adam-neumann-and-the-wework-debacle-11576299616)
 0. [The Holloway Syllabus on Company Culture](https://www.holloway.com/s/syllabus-company-culture)
 0. [Narcissistic CEOs Weaken Collaboration and Integrity](https://www.gsb.stanford.edu/insights/narcissistic-ceos-weaken-collaboration-integrity)
 0. [Makers, Don't Let Yourself Be Forced Into the 'Manager Schedule'](https://blog.nuclino.com/makers-don-t-let-yourself-be-forced-into-the-manager-schedule)

@@ -4,7 +4,8 @@ title: China Related
 permalink: /china-links/
 ---
 
-0. [[[新华网] 中国共产党第十九届中央委员会第四次全体会议公报](http://www.xinhuanet.com/politics/2019-10/31/c_1125178024.htm)
+0. [[外交部] 中华人民共和国和缅甸联邦共和国联合声明](https://www.fmprc.gov.cn/web/zyxw/t1733683.shtml)
+0. [[新华网] 中国共产党第十九届中央委员会第四次全体会议公报](http://www.xinhuanet.com/politics/2019-10/31/c_1125178024.htm)
 0. [[Hudson Institute] 2019 Herman Kahn Award Remarks: US Secretary of State Mike Pompeo on the China Challenge](https://www.hudson.org/research/15444-2019-herman-kahn-award-remarks-us-secretary-of-state-mike-pompeo-on-the-china-challenge)
 0. [[FP] The Untold Story of How George W. Bush Lost China](https://foreignpolicy.com/2019/10/04/the-untold-story-of-how-george-w-bush-lost-china/)
 0. [[American Affairs] China and the Rule of Law](https://americanaffairsjournal.org/2019/08/china-and-the-rule-of-law/)
