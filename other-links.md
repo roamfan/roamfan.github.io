@@ -4,6 +4,15 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [FastAI Book](https://github.com/fastai/fastbook)
+0. [Principles of Epidemiology in Public Health Practice](https://www.cdc.gov/csels/dsepd/ss1978/index.html)
+0. [EuSpRIG Horror Stories](http://www.eusprig.org/horror-stories.htm)
+0. [[FT] India: is Modi’s BJP introducing Big Brother?](https://www.ft.com/content/c626fd96-4db3-11ea-95a0-43d18ec715f5)
+0. [The mathematics of diseases](https://plus.maths.org/content/os/issue14/features/diseases/index)
+0. [[WSJ] The Ride-Hail Utopia That Got Stuck in Traffic](https://www.wsj.com/articles/the-ride-hail-utopia-that-got-stuck-in-traffic-11581742802)
+0. [Frank Ramsey: A Genius By All Tests for Genius](https://hnn.us/article/174250)
+0. [[WSJ] Fusion Startups Step In to Realize Decades-old Clean Power Dream](https://www.wsj.com/articles/fusion-startups-step-in-to-realize-decades-old-clean-power-dream-11581001383)
+0. [[NYT] An Algorithm That Grants Freedom, or Takes It Away](https://www.nytimes.com/2020/02/06/technology/predictive-algorithms-crime.html)
 0. [[FT] Angela Merkel warns EU: ‘Brexit is a wake-up call’](https://www.ft.com/content/a6785028-35f1-11ea-a6d3-9a26f8c3cba4)
 0. [[FT] What companies can learn from a Cambridge physics laboratory](https://www.ft.com/content/e6172084-1aac-11ea-81f0-0c253907d3e0)
 0. [[HBR] Why “Move Fast and Break Things” Doesn’t Work Anymore](https://hbr.org/2019/12/why-move-fast-and-break-things-doesnt-work-anymore)
