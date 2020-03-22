@@ -4,6 +4,16 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [Minsky Crisis](http://www.levyinstitute.org/pubs/wp_659.pdf)
+0. [The Holloway Guide to Equity Compensation](https://www.holloway.com/g/equity-compensation)
+0. [HOPL IV](https://hopl4.sigplan.org/)
+0. [[MIT Technology Review] We’re not going back to normal](https://www.technologyreview.com/s/615370/coronavirus-pandemic-social-distancing-18-months/?utm_source=pocket-newtab)
+0. [[FT] Anil Ambani vs Chinese banks: court case exposes stunning decline](https://www.ft.com/content/af6efd52-645f-11ea-a6cd-df28cc3c6a68)
+0. [Mind of a Mathematician](https://paw.princeton.edu/article/mind-mathematician)
+0. [Content, Creativity, and Monetisation in the Modern Internet](https://www.gtf.io/musings/content-creativity-monetisation/)	
+0. [How Focus Became More Valuable Than Intelligence](https://alexand.ro/2018/08/how-focus-became-more-valuable-than-intelligence)
+0. [[FT] Eurozone stability is under threat again](https://www.ft.com/content/d8086302-6545-11ea-a6cd-df28cc3c6a68)
+0. [BPR Interviews: Paul Graham](http://brownpoliticalreview.org/2020/03/bpr-interviews-paul-graham/)
 0. [FastAI Book](https://github.com/fastai/fastbook)
 0. [Principles of Epidemiology in Public Health Practice](https://www.cdc.gov/csels/dsepd/ss1978/index.html)
 0. [EuSpRIG Horror Stories](http://www.eusprig.org/horror-stories.htm)
