@@ -4,6 +4,7 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [Will Coronavirus Kill the European Union?](https://nationalinterest.org/blog/skeptics/will-coronavirus-kill-european-union-133432)
 0. [Law for Computer Scientists](https://lawforcomputerscientists.pubpub.org/)
 0. [A Primer on Boolean Satisfiability](https://homes.cs.washington.edu/~emina/blog/2017-06-23-a-primer-on-sat.html#next-steps)
 0. [Software Preservation Group](http://www.softwarepreservation.org/)
