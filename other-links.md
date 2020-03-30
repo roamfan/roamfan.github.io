@@ -4,6 +4,11 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [Law for Computer Scientists](https://lawforcomputerscientists.pubpub.org/)
+0. [A Primer on Boolean Satisfiability](https://homes.cs.washington.edu/~emina/blog/2017-06-23-a-primer-on-sat.html#next-steps)
+0. [Software Preservation Group](http://www.softwarepreservation.org/)
+0. [[ACM Queue] The Evolution of Management](https://queue.acm.org/detail.cfm?id=3350548)
+0. [[The New Yorker] Deign for Living](https://www.newyorker.com/magazine/2016/02/01/design-for-living-books-adam-kirsch)
 0. [Minsky Crisis](http://www.levyinstitute.org/pubs/wp_659.pdf)
 0. [The Holloway Guide to Equity Compensation](https://www.holloway.com/g/equity-compensation)
 0. [HOPL IV](https://hopl4.sigplan.org/)
