@@ -4,6 +4,16 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] US looks to exploit anger over Beijing’s South China Sea ambitions](https://www.ft.com/content/a6854615-c78c-40dd-82a4-600652bca2c0)
+0. [[FT] ‘Arrogance’ blinded big countries to virus risk, says Austria adviser](https://www.ft.com/content/87495a18-f7a1-4657-a517-ba2b16c146dc)
+0. [[FT] The business world can never go back to the way things were](https://www.ft.com/content/bc7cbed2-8bae-11ea-a109-483c62d17528)
+0. [Bye, Amazon](https://www.tbray.org/ongoing/When/202x/2020/04/29/Leaving-Amazon)
+0. [[NYT] How Long Will a Vaccine Really Take?](https://www.nytimes.com/interactive/2020/04/30/opinion/coronavirus-covid-vaccine.html)
+0. [[FT] Light after the lockdown — the future of books](https://www.ft.com/content/c1be60ec-8a2f-11ea-a01c-a28a3e3fbd33)
+0. [[FT] Light after the lockdown — the future of fashion](https://www.ft.com/content/1b03efec-8895-11ea-a01c-a28a3e3fbd33)
+0. [[FT] Light after the lockdown — the future of performing arts](https://www.ft.com/content/ae1388b6-8a38-11ea-a01c-a28a3e3fbd33)
+0. [[WSJ] New Measures of Social Distancing Could Be This Generation’s GDP](https://www.wsj.com/articles/new-measures-of-social-distancing-could-be-this-generations-gdp-11588334400)
+0. [[WSJ] Local, Practical, Apolitical: Inside Germany’s Successful Coronavirus Strategy](https://www.wsj.com/articles/local-practical-apolitical-inside-germanys-successful-coronavirus-strategy-11588325403)
 0. [[WSJ] Is This a Liquidity Crisis or a Solvency Crisis? It Matters to Fed](https://www.wsj.com/articles/is-this-a-liquidity-crisis-or-a-solvency-crisis-it-matters-to-fed-11588239001)
 0. [[WSJ] Stock Market Surge Isn’t as Crazy as It Seems](https://www.wsj.com/articles/stock-market-surge-isnt-as-crazy-as-it-seems-11588249144)
 0. [[WSJ] Federal Small-Business Aid: Too Little Bang, Too Few Bucks](https://www.wsj.com/articles/federal-small-business-aid-too-little-bang-too-few-bucks-11588263751)
