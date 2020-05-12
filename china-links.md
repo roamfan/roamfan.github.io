@@ -4,6 +4,8 @@ title: China Related
 permalink: /china-links/
 ---
 
+0. [[SCMP] Coronavirus: China faces historic test as pandemic stokes fears of looming unemployment crisis](https://www.scmp.com/economy/china-economy/article/3083513/coronavirus-china-faces-historic-test-pandemic-stokes-fears)
+0. [[SCMP] China tries to calm ‘nationalist fever’ as calls for invasion of Taiwan grow](https://www.scmp.com/news/china/politics/article/3083696/china-tries-calm-nationalist-fever-calls-invasion-taiwan-grow)
 0. [[外交部] 中华人民共和国和缅甸联邦共和国联合声明](https://www.fmprc.gov.cn/web/zyxw/t1733683.shtml)
 0. [[新华网] 中国共产党第十九届中央委员会第四次全体会议公报](http://www.xinhuanet.com/politics/2019-10/31/c_1125178024.htm)
 0. [[Hudson Institute] 2019 Herman Kahn Award Remarks: US Secretary of State Mike Pompeo on the China Challenge](https://www.hudson.org/research/15444-2019-herman-kahn-award-remarks-us-secretary-of-state-mike-pompeo-on-the-china-challenge)
