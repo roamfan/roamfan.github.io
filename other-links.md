@@ -4,6 +4,16 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] BlackRock throws support behind US exchange start-up MEMX](https://www.ft.com/content/6aad5b60-5378-476f-9636-4d06017fff9e)
+0. [[FT] German court decides to take back control with ECB ruling](https://www.ft.com/content/37825304-9428-11ea-af4b-499244625ac4)
+0. [[WSJ] ESG Investing Shines in Market Turmoil, With Help From Big Tech](https://www.wsj.com/articles/esg-investing-shines-in-market-turmoil-with-help-from-big-tech-11589275801)
+0. [[WSJ] Public Pension-Fund Losses Set Record in First Quarter](https://www.wsj.com/articles/public-pension-fund-losses-set-record-in-first-quarter-11589240175)
+0. [[WSJ] Fauci, Other Top Health Officials Urge More Testing Before Easing Lockdowns](https://www.wsj.com/articles/health-officials-to-testify-on-reopening-to-senate-committee-11589281013)
+0. [[WSJ] U.S. Budget Deficit Widened to $1.935 Trillion in 12 Months Through April](https://www.wsj.com/articles/u-s-budget-deficit-widened-to-1-935-trillion-in-12-months-through-april-11589306525)
+0. [[WSJ] Specter of Deflation Rises Again](https://www.wsj.com/articles/specter-of-deflation-rises-again-11589300191)
+0. [[WSJ] Turkey Strains to Ward Off Currency Crisis as Pandemic Weighs on Economy](https://www.wsj.com/articles/turkey-strains-to-ward-off-currency-crisis-as-pandemic-weighs-on-economy-11589292609)
+0. [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2020sp/textbook/)
+0. [Mandarin Mansion Antiques](https://www.mandarinmansion.com/)
 0. [[FT] Coronavirus crisis: does value investing still make sense?](https://www.ft.com/content/00c722d6-760f-4871-a927-2c564fe17276)
 0. [[FT] Gambling on US equities is becoming more difficult](https://www.ft.com/content/5fed983c-906b-11ea-9207-ace009a12028)
 0. [[FT] Why some companies will survive this crisis and others will die](https://www.ft.com/content/c1d9bc1a-459e-4981-b894-a4005b2d8022)
