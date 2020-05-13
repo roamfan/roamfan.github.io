@@ -4,6 +4,12 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [Dive into Deep Learning](https://d2l.ai)
+0. [[Bloomberg] To Avoid Burnout, Work Less and Ignore ‘Productivity Propaganda’](https://www.bloomberg.com/news/articles/2020-05-11/exercising-eating-right-won-t-prevent-burnout)
+0. [Public Books Database](https://www.publicbooks.org/public-books-database/)
+0. [Malleable Systems Collective](https://malleable.systems/)
+0. [A Brief Guide to A Few Algebraic Structures](https://argumatronic.com/posts/2019-06-21-algebra-cheatsheet.html)
+0. [40 Favorite Interview Questions from Some of the Sharpest Folks We Know](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
 0. [[WSJ] On the Ground in Wuhan, Signs of China Stalling Probe of Coronavirus Origins](https://www.wsj.com/articles/china-stalls-global-search-for-coronavirus-origins-wuhan-markets-investigation-11589300842)
 0. [[FT] Why the coming emerging markets debt crisis will be messy](https://www.ft.com/content/f7157356-e773-47c4-b05d-8624a5ccfd03)
 0. [[FT] BlackRock throws support behind US exchange start-up MEMX](https://www.ft.com/content/6aad5b60-5378-476f-9636-4d06017fff9e)
