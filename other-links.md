@@ -4,6 +4,7 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[WSJ] Silver Lake Makes Big Tech Bets While Its Rivals Sit Coronavirus Out](https://www.wsj.com/articles/silver-lake-springs-into-action-as-buyout-firms-new-ceos-seek-opportunity-in-downturn-11588757404)
 0. [Dive into Deep Learning](https://d2l.ai)
 0. [[Bloomberg] To Avoid Burnout, Work Less and Ignore ‘Productivity Propaganda’](https://www.bloomberg.com/news/articles/2020-05-11/exercising-eating-right-won-t-prevent-burnout)
 0. [Public Books Database](https://www.publicbooks.org/public-books-database/)
