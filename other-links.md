@@ -4,6 +4,18 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[WSJ] China’s Coronavirus Response Faces New Critics: Chinese Stuck Abroad](https://www.wsj.com/articles/chinas-coronavirus-response-faces-new-critics-chinese-stuck-abroad-11589540402)
+0. [[FT] Inside Trump’s coronavirus meltdown](https://www.ft.com/content/97dc7de6-940b-11ea-abcd-371e24b679ed)
+0. [[FT] From peak China to China pique](https://ftalphaville.ft.com/2020/05/11/1589192248000/From-peak-China-to-China-pique/)
+0. [[FT] How the pandemic is sending universities back to school](https://www.ft.com/content/554ff744-93fe-11ea-abcd-371e24b679ed)
+0. [[FT] British exceptionalism has reached the end of the road](https://www.ft.com/content/32b7fc68-952f-11ea-abcd-371e24b679ed)
+0. [[FT] The dangers of a US-China financial war](https://www.ft.com/content/85bca04a-9529-11ea-abcd-371e24b679ed)
+0. [[FT] The racial reality of America’s pandemic](https://www.ft.com/content/25ee9488-e779-48b6-b7e4-5a947e672e00)
+0. [[FT] Pandemic spawns new reporting term ‘ebitdac’ to flatter books](https://www.ft.com/content/5467518c-1b68-4712-9e74-e7cc949d8002)
+0. [[FT] Covid-19 looks like a hinge in history](https://www.ft.com/content/de643ae8-9527-11ea-899a-f62a20d54625)
+0. [[WSJ] China’s Clout Loses Punch as Trading Partners Push Back Over Coronavirus](https://www.wsj.com/articles/chinas-clout-loses-punch-as-trading-partners-push-back-over-coronavirus-11589448604)
+0. [[WSJ] States Were Prudent; Here’s Why They Need a Bailout Anyway](https://www.wsj.com/articles/states-were-prudent-heres-why-they-need-a-bailout-anyway-11589462541)
+0. [[JPM] The Initial Household Spending Response to COVID-19](https://institute.jpmorganchase.com/institute/research/household-income-spending/initial-household-spending-response-to-covid-19)
 0. [[WSJ] Soaring Prices, Rotting Crops: Coronavirus Triggers Global Food Crisis](https://www.wsj.com/articles/coronavirus-global-food-crisis-shortages-11589385615)
 0. [[WSJ] Working From Home Is Taking a Toll on Our Backs and Necks](https://www.wsj.com/articles/working-from-home-is-taking-a-toll-on-our-backs-and-necks-11589398420)
 0. [[FT] CLOs: ground zero for the next stage of the financial crisis?](https://www.ft.com/content/f10eaaac-0f4e-46bc-8f78-0754028da46a)
