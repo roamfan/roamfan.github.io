@@ -4,6 +4,12 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] Is it safe to go back to school?](https://www.ft.com/content/3156d826-3546-46cc-8de8-1c7a950bb558)
+0. [[FT] The pandemic is killing the attraction of megacities](https://www.ft.com/content/e30b16e2-9604-11ea-899a-f62a20d54625)
+0. [[FT] Paying for the Covid-19 pandemic will be painful](https://www.ft.com/content/d9041f04-9686-11ea-899a-f62a20d54625)
+0. [[FT] Why Brexit divorce deal still hangs over EU-UK future-relationship talks](https://www.ft.com/content/bd804d91-e498-45b5-9adf-08eab3d9b439)
+0. [[FT] How bank hedging jolted investors into talk of negative rates](https://www.ft.com/content/66ad3c37-3e0f-47f7-aa6c-ba4935c8de51)
+0. [[FT] Federal Reserve warns of potential ‘strains’ on US banks](https://www.ft.com/content/fc108ce3-baaa-47f1-9fc9-81fc72b17320)
 0. [[WSJ] How French Banks Lost Big in the Complex World of Structured Finance](https://www.wsj.com/articles/how-french-banks-lost-big-in-the-complex-world-of-structured-finance-11589545025)
 0. [[WSJ] SoftBank’s Big Bets Are Hit Hard by Coronavirus](https://www.wsj.com/articles/softbanks-big-bets-are-hit-hard-by-coronavirus-11589544002)
 0. [[WSJ] China’s Coronavirus Response Faces New Critics: Chinese Stuck Abroad](https://www.wsj.com/articles/chinas-coronavirus-response-faces-new-critics-chinese-stuck-abroad-11589540402)
