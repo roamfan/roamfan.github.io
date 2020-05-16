@@ -4,6 +4,8 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[WSJ] How French Banks Lost Big in the Complex World of Structured Finance](https://www.wsj.com/articles/how-french-banks-lost-big-in-the-complex-world-of-structured-finance-11589545025)
+0. [[WSJ] SoftBank’s Big Bets Are Hit Hard by Coronavirus](https://www.wsj.com/articles/softbanks-big-bets-are-hit-hard-by-coronavirus-11589544002)
 0. [[WSJ] China’s Coronavirus Response Faces New Critics: Chinese Stuck Abroad](https://www.wsj.com/articles/chinas-coronavirus-response-faces-new-critics-chinese-stuck-abroad-11589540402)
 0. [[FT] Inside Trump’s coronavirus meltdown](https://www.ft.com/content/97dc7de6-940b-11ea-abcd-371e24b679ed)
 0. [[FT] From peak China to China pique](https://ftalphaville.ft.com/2020/05/11/1589192248000/From-peak-China-to-China-pique/)
