@@ -4,6 +4,13 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[WSJ] The New Airline Travel: Fewer Flights, More Layovers, Rules for Bathrooms](https://www.wsj.com/articles/airline-travel-coronavirus-rules-11589823494)
+0. [[WSJ] Why Coronavirus Increasingly Exacerbates the Red-Blue Divide](https://www.wsj.com/articles/why-coronavirus-increasingly-exacerbates-the-red-blue-divide-11589810871)
+0. [[WSJ] Coronavirus Hits Southern California Harder Than Northern Counties](https://www.wsj.com/articles/coronavirus-hits-southern-california-harder-than-northern-counties-11589808151)
+0. [[WSJ] France, Germany Propose €500 Billion EU Pandemic Recovery Fund](https://www.wsj.com/articles/france-germany-propose-500-billion-eu-pandemic-recovery-fund-11589826351)
+0. [[WSJ] SoftBank Posts Its Worst Results Ever, Hit by Poor Tech Investments](https://www.wsj.com/articles/softbank-posts-9-billion-loss-for-year-hit-by-poor-tech-investments-11589787762)
+0. [[WSJ] The Fed’s $600 Billion Challenge: Lending Directly to Businesses](https://www.wsj.com/articles/the-feds-600-billion-challenge-lending-directly-to-businesses-11589794200)
+0. [[Bloomberg] Harvard’s Reinhart and Rogoff Say This Time Really Is Different](https://www.bloomberg.com/news/features/2020-05-18/harvard-s-financial-crisis-experts-this-time-really-is-different)
 0. [[WSJ] Bets on Slow Economic Recovery Challenge Market Rally](https://www.wsj.com/articles/bets-on-slow-economic-recovery-challenge-market-rally-11589716801)
 0. [[WSJ] Silicon Valley’s Next Big Office Idea: Work From Anywhere](https://www.wsj.com/articles/silicon-valleys-next-big-office-idea-work-from-anywhere-11589740234)
 0. [[WSJ] For Airlines Strapped by Coronavirus, the Repo Man Is the Latest Challenge](https://www.wsj.com/articles/for-airlines-strapped-by-coronavirus-the-repo-man-is-the-latest-challenge-11589630400)
