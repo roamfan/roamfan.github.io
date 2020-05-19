@@ -4,6 +4,11 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] The EU must retreat to survive](https://www.ft.com/content/22febd2a-98e0-11ea-adb1-529f96d8a00b)
+0. [[FT] Hedge funds: No market for small firms](https://www.ft.com/content/d94760ec-56c4-4051-965d-1fe2b35e4d71)
+0. [[WSJ] Coronavirus Shutdowns Wreak Devastating Toll on Poorest Nations, World Bank Chief Says](https://www.wsj.com/articles/coronavirus-shutdowns-wreak-devastating-toll-on-poorest-nations-world-bank-chief-says-11589893201)
+0. [[WSJ] ‘This Is a Science-Fiction Screenplay’: Europeans Re-Emerge to a New Normal](https://www.wsj.com/articles/this-is-a-science-fiction-screenplay-europeans-re-emerge-to-a-new-normal-11589880602)
+0. [[WSJ] Commercial Real Estate’s Havens Suddenly Not So Safe](https://www.wsj.com/articles/commercial-real-estates-havens-suddenly-not-so-safe-11589889600)
 0. [[WSJ] The New Airline Travel: Fewer Flights, More Layovers, Rules for Bathrooms](https://www.wsj.com/articles/airline-travel-coronavirus-rules-11589823494)
 0. [[WSJ] Why Coronavirus Increasingly Exacerbates the Red-Blue Divide](https://www.wsj.com/articles/why-coronavirus-increasingly-exacerbates-the-red-blue-divide-11589810871)
 0. [[WSJ] Coronavirus Hits Southern California Harder Than Northern Counties](https://www.wsj.com/articles/coronavirus-hits-southern-california-harder-than-northern-counties-11589808151)
