@@ -4,6 +4,13 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[WSJ] Nearly Half of Adults Live in U.S. Households That Lost Income Since Lockdowns Started](https://www.wsj.com/articles/nearly-half-of-u-s-households-have-lost-income-since-lockdowns-started-11589997049)
+0. [[WSJ] Coronavirus Layoffs Remake Silicon Valley Job Market](https://www.wsj.com/articles/coronavirus-layoffs-remake-silicon-valley-job-market-11589968800)
+0. [[WSJ] Large Tech Companies Prepare for Acquisition Spree](https://www.wsj.com/articles/large-tech-companies-prepare-for-acquisition-spree-11590053401)
+0. [[WSJ] Facebook to Shift Permanently Toward More Remote Work After Coronavirus](https://www.wsj.com/articles/facebook-to-shift-permanently-toward-more-remote-work-after-coronavirus-11590081300)
+0. [[FT] What Xi knew: pressure builds on China’s leader](https://www.ft.com/content/3a294233-6983-428c-b74b-3cc58c713eb8)
+0. [[FT] China has much to lose from a Joe Biden presidency](https://www.ft.com/content/30da66e4-9a73-11ea-adb1-529f96d8a00b)
+0. [[FT] World Bank names crisis expert as new chief economist](https://www.ft.com/content/3f14aa7c-298d-4fab-b876-b10ea1ee0faa)
 0. [[FT] The EU must retreat to survive](https://www.ft.com/content/22febd2a-98e0-11ea-adb1-529f96d8a00b)
 0. [[FT] Hedge funds: No market for small firms](https://www.ft.com/content/d94760ec-56c4-4051-965d-1fe2b35e4d71)
 0. [[WSJ] Coronavirus Shutdowns Wreak Devastating Toll on Poorest Nations, World Bank Chief Says](https://www.wsj.com/articles/coronavirus-shutdowns-wreak-devastating-toll-on-poorest-nations-world-bank-chief-says-11589893201)
