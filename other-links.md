@@ -4,6 +4,11 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[New Yorker] The Man Who Thought Too Fast](https://www.newyorker.com/magazine/2020/05/04/the-man-who-thought-too-fast)
+0. [[FT] How to escape the trap of excessive debt](https://www.ft.com/content/2c5ddbd0-8e09-11ea-9e12-0d4655dbd44f)
+0. [[FT] People cannot just be ordered back to work and to spend](https://www.ft.com/content/1aca0802-8f9f-11ea-9b25-c36e3584cda8)
+0. [[FT] The end of the office? Coronavirus may change work forever](https://www.ft.com/content/1b304300-0756-4774-9263-c97958e0054d)
+0. [The Coming Disruption: Scott Galloway predicts a handful of elite cyborg universities will soon monopolize higher education.](https://nymag.com/intelligencer/2020/05/scott-galloway-future-of-college.html)
 0. [[FT] The EU must retreat to survive](https://www.ft.com/content/22febd2a-98e0-11ea-adb1-529f96d8a00b)
 0. [[FT] Hedge funds: No market for small firms](https://www.ft.com/content/d94760ec-56c4-4051-965d-1fe2b35e4d71)
 0. [[WSJ] Coronavirus Shutdowns Wreak Devastating Toll on Poorest Nations, World Bank Chief Says](https://www.wsj.com/articles/coronavirus-shutdowns-wreak-devastating-toll-on-poorest-nations-world-bank-chief-says-11589893201)
