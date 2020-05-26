@@ -4,6 +4,7 @@ title: China Related
 permalink: /china-links/
 ---
 
+0. [[The Guardian] 'This is the end of Hong Kong': China pushes controversial security laws](https://www.theguardian.com/world/2020/may/21/china-proposes-controversial-national-security-law-for-hong-kong)
 0. [[SCMP] Coronavirus: China faces historic test as pandemic stokes fears of looming unemployment crisis](https://www.scmp.com/economy/china-economy/article/3083513/coronavirus-china-faces-historic-test-pandemic-stokes-fears)
 0. [[SCMP] China tries to calm ‘nationalist fever’ as calls for invasion of Taiwan grow](https://www.scmp.com/news/china/politics/article/3083696/china-tries-calm-nationalist-fever-calls-invasion-taiwan-grow)
 0. [[外交部] 中华人民共和国和缅甸联邦共和国联合声明](https://www.fmprc.gov.cn/web/zyxw/t1733683.shtml)

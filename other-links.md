@@ -4,6 +4,14 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[WSJ] The Germs That Transformed History](https://www.wsj.com/articles/the-germs-that-transformed-history-11590159271)
+0. [[FT] Russia: Pandemic tests Putin’s grip on power](https://www.ft.com/content/d4d61de4-8aea-11ea-9dcb-fe6871f4145a)
+0. [[FT] Pandemic crisis offers glimpse into oil industry’s future](https://www.ft.com/content/99fc40be-83aa-11ea-b872-8db45d5f6714)
+0. [[Nature] Ten reasons why immunity passports are a bad idea](https://www.nature.com/articles/d41586-020-01451-0)
+0. [Into the Tar Pit](https://einarwh.wordpress.com/2020/05/19/into-the-tar-pit/)
+0. [[HBR] Want to Be More Productive? Try Doing Less.](https://hbr.org/2020/05/want-to-be-more-productive-try-doing-less)
+0. [[FT] Keir Starmer: ‘The government has been slow in nearly all of the major decisions’](https://www.ft.com/content/35982886-8e77-11ea-a8ec-961a33ba80aa)
+0. [[Bloomberg] SoftBank’s Masa-Misra Partnership Strained by Losses, Infighting](https://www.bloomberg.com/news/features/2020-05-21/softbank-s-masa-misra-partnership-strained-by-losses-infighting)
 0. [[WSJ] The Day Coronavirus Nearly Broke the Financial Markets](https://www.wsj.com/articles/the-day-coronavirus-nearly-broke-the-financial-markets-11589982288)
 0. [[WSJ] As the Coronavirus Lockdown Eases, Italy Confronts an Epidemic of Poverty](https://www.wsj.com/articles/as-the-coronavirus-lockdown-eases-italy-confronts-an-epidemic-of-poverty-11590058801)
 0. [[WSJ] Europe’s Recovery Imperiled by Banks Too Scared to Lend](https://www.wsj.com/articles/europes-recovery-imperiled-by-banks-too-scared-to-lend-11590062406)
