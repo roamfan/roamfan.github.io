@@ -4,6 +4,10 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] India’s draconian lockdown gives way to a sudden easing](https://www.ft.com/content/f86d3fda-9e72-11ea-b65d-489c67b0d85d)
+0. [[FT] Jair Bolsonaro’s populism is leading Brazil to disaster](https://www.ft.com/content/c39fadfe-9e60-11ea-b65d-489c67b0d85d)
+0. [[FT] Can New York avoid a coronavirus exodus?](https://www.ft.com/content/a313a40c-b046-4b11-b302-41d9f347cddb)
+0. [[FT] Market ‘distress’ over virus sparked emergency Wall St measures](https://www.ft.com/content/30f72eef-235e-4714-9f00-c36deb30a729)
 0. [[WSJ] The Germs That Transformed History](https://www.wsj.com/articles/the-germs-that-transformed-history-11590159271)
 0. [[FT] Russia: Pandemic tests Putin’s grip on power](https://www.ft.com/content/d4d61de4-8aea-11ea-9dcb-fe6871f4145a)
 0. [[FT] Pandemic crisis offers glimpse into oil industry’s future](https://www.ft.com/content/99fc40be-83aa-11ea-b872-8db45d5f6714)
