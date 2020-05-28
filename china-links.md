@@ -4,6 +4,7 @@ title: China Related
 permalink: /china-links/
 ---
 
+0. [United States Strategic Approach to The People’s Republic of China](https://www.whitehouse.gov/wp-content/uploads/2020/05/U.S.-Strategic-Approach-to-The-Peoples-Republic-of-China-Report-5.20.20.pdf)
 0. [[FT] Business will be the loser in the US-China fight](https://www.ft.com/content/5b2a61be-9f33-11ea-94c2-0526869b56b0)
 0. [[FT] China-US rivalry and threats to globalisation recall ominous past](https://www.ft.com/content/5887ec6c-9d97-11ea-b65d-489c67b0d85d)
 0. [[The Guardian] 'This is the end of Hong Kong': China pushes controversial security laws](https://www.theguardian.com/world/2020/may/21/china-proposes-controversial-national-security-law-for-hong-kong)
