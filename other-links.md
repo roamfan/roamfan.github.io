@@ -4,6 +4,10 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] Crisis in Europe: von der Leyen’s audacious bid for new powers](https://www.ft.com/content/775c4db2-4e3d-426f-b937-243f0673cc14)
+0. [[WSJ] Coronavirus Will Change the World. Good Luck Figuring Out How.](https://www.wsj.com/articles/coronavirus-will-change-the-world-good-luck-figuring-out-how-11590686431)
+0. [[WSJ] A Jewish Dynasty in a Changing China](https://www.wsj.com/articles/a-jewish-dynasty-in-a-changing-china-11590688537)
+0. [[WSJ] Extent of Covid-19 Deaths Failed to Be Captured by Most Countries](https://www.wsj.com/articles/most-countries-fail-to-capture-extent-of-covid-19-deaths-11590658200)
 0. [[FT] Will coronavirus pandemic finally kill off global supply chains?](https://www.ft.com/content/4ee0817a-809f-11ea-b0fb-13524ae1056b)
 0. [[FT] Europe’s battle lines are drawn at a uniquely perilous moment](https://www.ft.com/content/61c6a51e-a028-11ea-ba68-3d5500196c30)
 0. [[FT] Britain’s Brexiters still do not understand Europe](https://www.ft.com/content/63450adc-a025-11ea-b65d-489c67b0d85d)
