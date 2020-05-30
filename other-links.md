@@ -4,6 +4,12 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [The Coronavirus Pandemic Will Forever Alter the World Order](https://www.henryakissinger.com/articles/the-coronavirus-pandemic-will-forever-alter-the-world-order/)
+0. [[FT] Meet Rutger Bregman — outspoken historian and scourge of Davos](https://www.ft.com/content/60e09418-9c5c-11ea-adb1-529f96d8a00b)
+0. [[FT] US graduates in crisis: ‘Entry level jobs are not safe at all’](https://www.ft.com/content/da1018d4-dfb6-4239-b391-8df74d27ed75)
+0. [[IEEE Spectrum] AI and Economic Productivity: Expect Evolution, Not Revolution](https://spectrum.ieee.org/computing/software/ai-and-economic-productivity-expect-evolution-not-revolution)
+0. [A forty year career.](https://lethain.com/forty-year-career/)
+0. [[LARB] Free Money for Surfers: A Genealogy of the Idea of Universal Basic Income](https://lareviewofbooks.org/article/free-money-for-surfers-a-genealogy-of-the-idea-of-universal-basic-income/)
 0. [[FT] Crisis in Europe: von der Leyen’s audacious bid for new powers](https://www.ft.com/content/775c4db2-4e3d-426f-b937-243f0673cc14)
 0. [[WSJ] Coronavirus Will Change the World. Good Luck Figuring Out How.](https://www.wsj.com/articles/coronavirus-will-change-the-world-good-luck-figuring-out-how-11590686431)
 0. [[WSJ] A Jewish Dynasty in a Changing China](https://www.wsj.com/articles/a-jewish-dynasty-in-a-changing-china-11590688537)

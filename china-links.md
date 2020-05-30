@@ -4,6 +4,9 @@ title: China Related
 permalink: /china-links/
 ---
 
+0. [[FT] UK widens visa rights offer to almost 3m Hong Kong residents](https://www.ft.com/content/06e30290-1fcb-44cb-9ed6-5f4b0e7ff565)
+0. [[FT] ‘A broken piece of jade’: the turbulent future of Hong Kong](https://www.ft.com/content/33ebddb5-4489-4774-bb61-7a7272f852e5)
+0. [What Kind of Regime Does China Have?](https://www.the-american-interest.com/2020/05/18/what-kind-of-regime-does-china-have/)
 0. [United States Strategic Approach to The People’s Republic of China](https://www.whitehouse.gov/wp-content/uploads/2020/05/U.S.-Strategic-Approach-to-The-Peoples-Republic-of-China-Report-5.20.20.pdf)
 0. [[FT] Business will be the loser in the US-China fight](https://www.ft.com/content/5b2a61be-9f33-11ea-94c2-0526869b56b0)
 0. [[FT] China-US rivalry and threats to globalisation recall ominous past](https://www.ft.com/content/5887ec6c-9d97-11ea-b65d-489c67b0d85d)
