@@ -4,6 +4,7 @@ title: China Related
 permalink: /china-links/
 ---
 
+0. [[The Atlantic] How China Sees the World](https://www.theatlantic.com/magazine/archive/2020/05/mcmaster-china-strategy/609088/)
 0. [[FT] UK widens visa rights offer to almost 3m Hong Kong residents](https://www.ft.com/content/06e30290-1fcb-44cb-9ed6-5f4b0e7ff565)
 0. [[FT] ‘A broken piece of jade’: the turbulent future of Hong Kong](https://www.ft.com/content/33ebddb5-4489-4774-bb61-7a7272f852e5)
 0. [What Kind of Regime Does China Have?](https://www.the-american-interest.com/2020/05/18/what-kind-of-regime-does-china-have/)
