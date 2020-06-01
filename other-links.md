@@ -4,6 +4,7 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] Apollo: how a private equity giant is navigating the crisis](https://www.ft.com/content/6fce9808-84ab-11ea-b555-37a289098206)
 0. [The Coronavirus Pandemic Will Forever Alter the World Order](https://www.henryakissinger.com/articles/the-coronavirus-pandemic-will-forever-alter-the-world-order/)
 0. [[FT] Meet Rutger Bregman — outspoken historian and scourge of Davos](https://www.ft.com/content/60e09418-9c5c-11ea-adb1-529f96d8a00b)
 0. [[FT] US graduates in crisis: ‘Entry level jobs are not safe at all’](https://www.ft.com/content/da1018d4-dfb6-4239-b391-8df74d27ed75)
