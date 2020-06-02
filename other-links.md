@@ -4,6 +4,12 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] The Last Kings of Shanghai by Jonathan Kaufman — masters of the Bund](https://www.ft.com/content/2fb2fe9a-9459-11ea-abcd-371e24b679ed)
+0. [[FT] Trump hopes tough stance on crime will propel him to election victory](https://www.ft.com/content/e9e30710-d03e-4e99-b07a-9dca2ae02704)
+0. [[FT] Every manager is having a midlife crisis](https://www.ft.com/content/976882f4-a01a-11ea-ba68-3d5500196c30)
+0. [[FT] George Floyd and the story of the Two Americas](https://www.ft.com/content/12ff370a-a40d-11ea-81ac-4854aed294e5)
+0. [[FT] US cities rocked by unrest as police struggle to gain control](https://www.ft.com/content/82982cc6-c50c-4c9c-837f-68de3a629b2d)
+0. [[FT]A New York artist’s coronavirus chronicle](https://howtospendit.ft.com/art-philanthropy/208512-a-new-york-artist-s-coronavirus-chronicle)
 0. [[FT] Donald Trump and the spectre of a race-based US election](https://www.ft.com/content/89012f0e-a358-11ea-92e2-cbd9b7e28ee6)
 0. [[FT] Donald Trump, race and the arc of history](https://www.ft.com/content/37293418-a3e6-11ea-81ac-4854aed294e5)
 0. [[FT] America’s inequalities burst into the open](https://www.ft.com/content/d69cda08-81fc-4e42-a3c3-3526b74de04f)
