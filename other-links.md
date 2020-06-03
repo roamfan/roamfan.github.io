@@ -4,6 +4,8 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] The EU rises to meet the Covid-19 crisis](https://www.ft.com/content/788d4582-a3fc-11ea-81ac-4854aed294e5)
+0. [[FT] African-American economic gap remains despite US expansion](https://www.ft.com/content/6b3e23cc-645d-49c5-a63d-040de86b3d75)
 0. [[FT] The Last Kings of Shanghai by Jonathan Kaufman — masters of the Bund](https://www.ft.com/content/2fb2fe9a-9459-11ea-abcd-371e24b679ed)
 0. [[FT] Trump hopes tough stance on crime will propel him to election victory](https://www.ft.com/content/e9e30710-d03e-4e99-b07a-9dca2ae02704)
 0. [[FT] Every manager is having a midlife crisis](https://www.ft.com/content/976882f4-a01a-11ea-ba68-3d5500196c30)
