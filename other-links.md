@@ -4,6 +4,15 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] Dealing with personal loss while navigating chaotic markets](https://www.ft.com/content/abd66707-5a90-4cbc-a198-f99d3a75db59)
+0. [[FT] Facebook and the creation of a US oligarch](https://www.ft.com/content/0f2c8952-a719-11ea-92e2-cbd9b7e28ee6)
+0. [[NYT] How Trump's Idea for a Photo Op Led to Havoc in a Park](https://www.nytimes.com/2020/06/02/us/politics/trump-walk-lafayette-square.html)
+0. [The Examined Life: A Review of Howard Axelrod’s The Stars in Our Pockets](https://agnionline.bu.edu/review/the-examined-life)
+0. [Estimated Daily COVID-19 Cases and Available Hospital Critical Care Beds](https://cuepi.shinyapps.io/COVID-19/)
+0. [What does a Director of Engineering do?](https://www.hashtagcoder.dev/blog/director-of-engineering)
+0. [[FT] Investors swept up in optimism need to ask themselves two questions](https://www.ft.com/content/47b4c0cb-7299-49a2-9a56-242ad3109250)
+0. [[MIT] The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+0. [[Nature] Universities will never be the same after the coronavirus crisis](https://www.nature.com/articles/d41586-020-01518-y)
 0. [[WSJ] CEO Pay for the S&P 500](https://www.wsj.com/graphics/ceo-pay-for-the-sp500/)
 0. [[The Atlantic] James Mattis Denounces President Trump, Describes Him as a Threat to the Constitution](https://www.theatlantic.com/politics/archive/2020/06/james-mattis-denounces-trump-protests-militarization/612640/)
 0. [[FT] The EU rises to meet the Covid-19 crisis](https://www.ft.com/content/788d4582-a3fc-11ea-81ac-4854aed294e5)

@@ -4,6 +4,9 @@ title: China Related
 permalink: /china-links/
 ---
 
+0. [[WSJ] Some Economists Question Strength of China’s Labor Market](https://www.wsj.com/articles/chinas-jobs-rebound-doesnt-appear-as-robust-as-the-government-claims-11591551390)
+0. [[WSJ] The Soured Romance Between China and Corporate America](https://www.wsj.com/articles/the-soured-romance-between-china-and-corporate-america-11591365699)
+0. [[WSJ] Huawei Founder Ren Zhengfei Takes Off the Gloves in Fight Against U.S.](https://www.wsj.com/articles/huawei-founder-ren-zhengfei-takes-off-the-gloves-in-fight-against-u-s-11591416028)
 0. [[SCMP] The grim outlook for Chinese unemployment](https://series.scmp.com/grim-outlook-chinese-unemployment/)
 0. [[The Atlantic] How China Sees the World](https://www.theatlantic.com/magazine/archive/2020/05/mcmaster-china-strategy/609088/)
 0. [[FT] UK widens visa rights offer to almost 3m Hong Kong residents](https://www.ft.com/content/06e30290-1fcb-44cb-9ed6-5f4b0e7ff565)
