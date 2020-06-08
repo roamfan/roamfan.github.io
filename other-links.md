@@ -4,6 +4,8 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] Zuckerberg, Trump and the protests: Facebook’s muddled makeover](https://www.ft.com/content/9e339cdf-a9b1-4d6a-b3db-196cb3e6791d)
+0. [[FT] EY fights fires on three audit cases that threaten its global reputation](https://www.ft.com/content/576e4c7f-93e5-4e8a-b5ba-5e1161533c5a)
 0. [[FT] Dealing with personal loss while navigating chaotic markets](https://www.ft.com/content/abd66707-5a90-4cbc-a198-f99d3a75db59)
 0. [[FT] Facebook and the creation of a US oligarch](https://www.ft.com/content/0f2c8952-a719-11ea-92e2-cbd9b7e28ee6)
 0. [[NYT] How Trump's Idea for a Photo Op Led to Havoc in a Park](https://www.nytimes.com/2020/06/02/us/politics/trump-walk-lafayette-square.html)
