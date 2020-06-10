@@ -4,6 +4,10 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] The gap between the haves and the have-nots is widening sharply](https://www.ft.com/content/0ebfb7ca-a681-11ea-a27c-b8aa85e36b7e)
+0. [[FT] Peru in mourning: ‘The virus has changed everything’](https://www.ft.com/content/53c858cb-1c8b-4a14-bcb3-8948a5794db2)
+0. [[WSJ] Summer Camp Canceled? IRS Gives Coronavirus Relief for Dependent-Care Accounts](https://www.wsj.com/articles/summer-camp-canceled-irs-gives-coronavirus-relief-for-dependent-care-accounts-11589367600)
+0. [[WSJ] Expert Advice for a Safe Road Trip](https://www.wsj.com/articles/expert-advice-for-a-safe-post-pandemic-road-trip-11591625608)
 0. [[FT] Zuckerberg, Trump and the protests: Facebook’s muddled makeover](https://www.ft.com/content/9e339cdf-a9b1-4d6a-b3db-196cb3e6791d)
 0. [[FT] EY fights fires on three audit cases that threaten its global reputation](https://www.ft.com/content/576e4c7f-93e5-4e8a-b5ba-5e1161533c5a)
 0. [[FT] Dealing with personal loss while navigating chaotic markets](https://www.ft.com/content/abd66707-5a90-4cbc-a198-f99d3a75db59)
