@@ -4,6 +4,7 @@ title: China Related
 permalink: /china-links/
 ---
 
+0. [[FT] Chinese businesses adapt to post-lockdown reality](https://www.ft.com/content/6873359d-d3e2-4cb2-9f61-ca8c262ddaf3)
 0. [[FT] A new global crisis is looming in east Asia](https://www.ft.com/content/2a6555e2-a961-11ea-a766-7c300513fe47)
 0. [[WSJ] Some Economists Question Strength of China’s Labor Market](https://www.wsj.com/articles/chinas-jobs-rebound-doesnt-appear-as-robust-as-the-government-claims-11591551390)
 0. [[WSJ] The Soured Romance Between China and Corporate America](https://www.wsj.com/articles/the-soured-romance-between-china-and-corporate-america-11591365699)

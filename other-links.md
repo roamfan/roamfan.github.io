@@ -4,6 +4,8 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[New Yorker] Rediscovering One of the Wittiest Books Ever Written](https://www.newyorker.com/books/second-read/rediscovering-one-of-the-wittiest-books-ever-written)
+0. [[FT] Covid-19 will hit developing countries hard](https://www.ft.com/content/31eb2686-a982-11ea-a766-7c300513fe47)
 0. [[FT] Zuckerberg, Trump and the protests: Facebook’s muddled makeover](https://www.ft.com/content/9e339cdf-a9b1-4d6a-b3db-196cb3e6791d)
 0. [[FT] EY fights fires on three audit cases that threaten its global reputation](https://www.ft.com/content/576e4c7f-93e5-4e8a-b5ba-5e1161533c5a)
 0. [[FT] Dealing with personal loss while navigating chaotic markets](https://www.ft.com/content/abd66707-5a90-4cbc-a198-f99d3a75db59)
