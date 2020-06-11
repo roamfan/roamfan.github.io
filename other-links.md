@@ -4,6 +4,8 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] One metre or two? Economic pressure stokes distancing debate](https://www.ft.com/content/202a6f8a-7310-49ed-b285-3ea26fa963f3)
+0. [[FT] Just Eat Takeaway’s Grubhub deal puts dash for growth back on menu](https://www.ft.com/content/2925554d-c2de-45dd-85c8-ab254cd3d884)
 0. [[FT] Biden urges Facebook to overhaul political content rules](https://www.ft.com/content/554ddb68-b737-46f9-bb48-6bc1ac449fc1)
 0. [[FT] How to avoid the virus as the world reopens](https://www.ft.com/content/2418ff87-1d41-41b5-b638-38f5164a2e94)
 0. [[FT] An open letter of advice to CEOs](https://www.ft.com/content/7216ad9e-aa30-11ea-abfc-5d8dc4dd86f9)
