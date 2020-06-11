@@ -4,6 +4,9 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[WSJ] Tested Positive for Coronavirus Antibodies? Don’t Let Your Guard Down](https://www.wsj.com/articles/tested-positive-for-coronavirus-antibodies-dont-let-your-guard-down-11591794007)
+0. [[HBR] How to Write Email with Military Precision](https://hbr.org/2016/11/how-to-write-email-with-military-precision)
+0. [I’m Married to an Emergency Room Doctor in New York City](https://superorganizers.substack.com/p/im-married-to-an-emergency-room-doctor)
 0. [[New Yorker] Rediscovering One of the Wittiest Books Ever Written](https://www.newyorker.com/books/second-read/rediscovering-one-of-the-wittiest-books-ever-written)
 0. [[FT] Covid-19 will hit developing countries hard](https://www.ft.com/content/31eb2686-a982-11ea-a766-7c300513fe47)
 0. [[FT] The gap between the haves and the have-nots is widening sharply](https://www.ft.com/content/0ebfb7ca-a681-11ea-a27c-b8aa85e36b7e)
