@@ -4,6 +4,9 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] Biden urges Facebook to overhaul political content rules](https://www.ft.com/content/554ddb68-b737-46f9-bb48-6bc1ac449fc1)
+0. [[FT] How to avoid the virus as the world reopens](https://www.ft.com/content/2418ff87-1d41-41b5-b638-38f5164a2e94)
+0. [[FT] An open letter of advice to CEOs](https://www.ft.com/content/7216ad9e-aa30-11ea-abfc-5d8dc4dd86f9)
 0. [[WSJ] Tested Positive for Coronavirus Antibodies? Don’t Let Your Guard Down](https://www.wsj.com/articles/tested-positive-for-coronavirus-antibodies-dont-let-your-guard-down-11591794007)
 0. [[HBR] How to Write Email with Military Precision](https://hbr.org/2016/11/how-to-write-email-with-military-precision)
 0. [I’m Married to an Emergency Room Doctor in New York City](https://superorganizers.substack.com/p/im-married-to-an-emergency-room-doctor)
