@@ -4,6 +4,9 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] We must resurrect EU Capital Markets Union](https://www.ft.com/content/7c70a858-79ba-4b3f-af80-7a207e14a558)
+0. [[FT] The Decadent Society — has the west run out of ideas?](https://www.ft.com/content/342aa5b2-945a-11ea-abcd-371e24b679ed)
+0. [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2020sp/textbook/)
 0. [[FT] HSBC is a citizen of nowhere](https://www.ft.com/content/6bfb8213-1b72-4bf0-8e5e-ad2218f3df37)
 0. [[FT] US boardrooms fail to reflect country’s demographics](https://www.ft.com/content/c47c9b63-26c0-4487-94a9-4db7da585fbd)
 0. [[FT] Global pandemic helps ‘Generation Z’ ignite a movement](https://www.ft.com/content/effbfc03-61f3-4f99-910c-8befe46a6c08)
