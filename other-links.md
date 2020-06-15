@@ -4,6 +4,7 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [A collection of free books from Springer](https://hnarayanan.github.io/springer-books/)
 0. [[NYT] Doctors Are Covid’s First Historians](https://www.nytimes.com/interactive/2020/06/12/opinion/coronavirus-doctors.html)
 0. [[WSJ] A New Approach to Dealing With Myopia in Kids](https://www.wsj.com/articles/a-new-approach-to-dealing-with-myopia-in-kids-11591640274)
 0. [[FT] We must resurrect EU Capital Markets Union](https://www.ft.com/content/7c70a858-79ba-4b3f-af80-7a207e14a558)
