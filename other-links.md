@@ -4,6 +4,10 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] What countries can — and can’t — learn from each other](https://www.ft.com/content/ac686d8d-f6cd-4d51-b9b4-6014c22762ec)
+0. [[FT] Donald Trump knows the power of writing — if not reading](https://www.ft.com/content/698cc90c-1090-4828-b3de-6af0fb1fa385)
+0. [Nextstrain](https://nextstrain.org/)
+0. [[FT] China says coronaviruses behind Beijing outbreak ‘came from Europe’](https://www.ft.com/content/378b69b9-a8dd-4d7f-bd35-637a4a055424)
 0. [[FT] Bundesbank boss moves to defuse row between ECB and German court](https://www.ft.com/content/7cfabea1-3f18-457a-a646-cb0ccf0c1141)
 0. [[FT] A dangerous stand-off in the Himalayas](https://www.ft.com/content/da34afde-b0ac-11ea-a4b6-31f1eedf762e)
 0. [[FT] Paranoia creeps into homeworking](https://www.ft.com/content/e50ce245-09fd-4831-a90b-953ef51a2281)
