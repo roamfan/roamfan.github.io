@@ -4,6 +4,7 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [My Favorite CLI Tools](https://switowski.com/blog/favorite-cli-tools)
 0. [[FT] Berlin and ECB signal end to legal impasse over bond-buying](https://www.ft.com/content/5f000a25-3d54-4610-8579-cab9b21759ee)
 0. [[FT] Zero-fee trading helps Citadel Securities cash in on retail boom](https://www.ft.com/content/4a439398-88ab-442a-9927-e743a3ff609b)
 0. [[FT] Why my alma mater’s record on race has got worse](https://www.ft.com/content/319728bc-df60-4a84-9340-f8f48f8cd48e)
