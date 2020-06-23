@@ -4,6 +4,11 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] Credit defaults are soon to sweep across Europe, like the US](https://www.ft.com/content/8f3da52d-63db-49ec-88a7-e70470d39829)
+0. [[FT] What 9/11 can teach us about aviation’s post-coronavirus future](https://www.ft.com/content/8c4e90f4-c61e-447d-a3ef-78d29e4cf56d)
+0. [[FT] Lessons from a financial technology scandal](https://www.ft.com/content/27872df6-b496-11ea-8ecb-0994e384dffe)
+0. [[FT] Distressed markets are masters of disguise](https://www.ft.com/content/a827eb4a-58ee-462f-b688-116dcc1d3576)
+0. [[FT] How banks are planning to bring staff back to the office](https://www.ft.com/content/391b67a7-4a80-41f2-8229-6a0a554444ab)
 0. [My Favorite CLI Tools](https://switowski.com/blog/favorite-cli-tools)
 0. [[FT] Berlin and ECB signal end to legal impasse over bond-buying](https://www.ft.com/content/5f000a25-3d54-4610-8579-cab9b21759ee)
 0. [[FT] Zero-fee trading helps Citadel Securities cash in on retail boom](https://www.ft.com/content/4a439398-88ab-442a-9927-e743a3ff609b)
