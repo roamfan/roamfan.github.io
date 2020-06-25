@@ -4,6 +4,15 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[WSJ] Fed Stress Test Finds U.S. Banks Healthy Enough to Withstand the Coronavirus Crisis](https://www.wsj.com/articles/fed-stress-test-finds-u-s-banks-healthy-enough-to-withstand-the-coronavirus-crisis-11593117020)
+0. [[FT] Sichuan protest raises fears for China’s $3tn trust sector](https://www.ft.com/content/a15b9bf7-af44-4de1-a7f1-f70ee88cac50)
+0. [[FT] Wirecard: the timeline](https://www.ft.com/content/284fb1ad-ddc0-45df-a075-0709b36868db)
+0. [[FT] Cboe to challenge CME and Refinitiv with new FX platform](https://www.ft.com/content/a80c5eb6-120c-4985-8eba-85e9a07bb44d)
+0. [[FT] Wirecard scandal leaves German regulators under fire](https://www.ft.com/content/f62f7f56-3d45-492c-ae88-172948d21eb8)
+0. [[FT] US capitalism has been shattered](https://www.ft.com/content/e7baaac4-b66e-4c87-8d77-ff5135a0f20c)
+0. [[FT] ECB seeks to defuse row with German court over bond-buying](https://www.ft.com/content/7f2172f5-0118-484a-a394-7c95f827bdeb)
+0. [[FT] Wirecard collapses into insolvency](https://www.ft.com/content/ac949729-6167-4b6c-ac3f-f0aa71aca193)
+0. [[FT] Fed caps dividends and bans share buybacks by big US banks](https://www.ft.com/content/58c63f45-9bb0-437b-8ba4-c50820c5eae2)
 0. [[FT] Credit defaults are soon to sweep across Europe, like the US](https://www.ft.com/content/8f3da52d-63db-49ec-88a7-e70470d39829)
 0. [[FT] What 9/11 can teach us about aviation’s post-coronavirus future](https://www.ft.com/content/8c4e90f4-c61e-447d-a3ef-78d29e4cf56d)
 0. [[FT] Lessons from a financial technology scandal](https://www.ft.com/content/27872df6-b496-11ea-8ecb-0994e384dffe)
