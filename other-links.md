@@ -4,6 +4,11 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] Germany to overhaul accounting regulation after Wirecard collapse](https://www.ft.com/content/e037d830-cfd8-4bca-853d-d49f48e67f13)
+0. [[FT] French voters reject Macron candidates in local polls](https://www.ft.com/content/5c0a243d-e682-42f7-bc8b-1e18096a67fc)
+0. [[FT] Shale pioneer Chesapeake Energy files for bankruptcy](https://www.ft.com/content/31f35631-7b7d-4fa1-8eef-6255bf18cf88)
+0. [[FT] Wirecard proves Europe needs a single financial markets supervisor](https://ftalphaville.ft.com/2020/06/26/1593172669000/Wirecard-proves-Europe-needs-a-single-financial-markets-supervisor/)
+0. [[Bloomberg] How Texas Lost Control of the Virus](https://www.bloomberg.com/news/articles/2020-06-28/texas-governor-hobbled-houston-leaders-losing-control-of-virus)
 0. [[WSJ] Fed Stress Test Finds U.S. Banks Healthy Enough to Withstand the Coronavirus Crisis](https://www.wsj.com/articles/fed-stress-test-finds-u-s-banks-healthy-enough-to-withstand-the-coronavirus-crisis-11593117020)
 0. [[FT] Sichuan protest raises fears for China’s $3tn trust sector](https://www.ft.com/content/a15b9bf7-af44-4de1-a7f1-f70ee88cac50)
 0. [[FT] Wirecard: the timeline](https://www.ft.com/content/284fb1ad-ddc0-45df-a075-0709b36868db)
