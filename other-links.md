@@ -4,6 +4,8 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[TechCrunch] Tim O’Reilly makes a persuasive case for why venture capital is starting to do more harm than good](https://techcrunch.com/2020/06/26/tim-oreilly-makes-a-persuasive-case-for-why-venture-capital-is-starting-to-do-more-harm-than-good/)
+0. [What Is The Morning Writing Effect?](https://www.gwern.net/Morning-writing)
 0. [[FT] Lufthansa to link Covid-19 tests with tickets in effort to avoid quarantine](https://www.ft.com/content/168da1d2-1e52-48d1-85c0-54157fe06434)
 0. [[FT] India bans dozens of Chinese mobile apps](https://www.ft.com/content/08e15c26-48e0-4540-a040-1a8782e84f2e)
 0. [The Contentious History of the Passport](https://www.nationalgeographic.com/travel/features/a-history-of-the-passport/)
