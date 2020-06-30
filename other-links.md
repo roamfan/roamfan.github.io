@@ -4,6 +4,12 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] Lufthansa to link Covid-19 tests with tickets in effort to avoid quarantine](https://www.ft.com/content/168da1d2-1e52-48d1-85c0-54157fe06434)
+0. [[FT] India bans dozens of Chinese mobile apps](https://www.ft.com/content/08e15c26-48e0-4540-a040-1a8782e84f2e)
+0. [The Contentious History of the Passport](https://www.nationalgeographic.com/travel/features/a-history-of-the-passport/)
+0. [The top 9 causes of global poverty](https://reliefweb.int/report/world/top-9-causes-global-poverty)
+0. [Murakami Radio](https://www.tfm.co.jp/murakamiradio/index.html)
+0. [[Bloomberg] Ten Years After IPO, a Look Back at Tesla’s Extraordinary Decade](https://www.bloomberg.com/news/articles/2020-06-29/ten-years-after-ipo-a-look-back-at-tesla-s-extraordinary-decade)
 0. [[FT] Germany to overhaul accounting regulation after Wirecard collapse](https://www.ft.com/content/e037d830-cfd8-4bca-853d-d49f48e67f13)
 0. [[FT] French voters reject Macron candidates in local polls](https://www.ft.com/content/5c0a243d-e682-42f7-bc8b-1e18096a67fc)
 0. [[FT] Shale pioneer Chesapeake Energy files for bankruptcy](https://www.ft.com/content/31f35631-7b7d-4fa1-8eef-6255bf18cf88)
