@@ -4,6 +4,14 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] Raiding the pot: Pandemic deepens pensions crisis](https://www.ft.com/content/ec4babc0-75c5-4d60-a675-ca66de8da8fd)
+0. [[FT] US election: is Trump already too far behind Biden?](https://www.ft.com/content/bd3c99b9-b98f-4d92-9a76-4e660a659c96)
+0. [[FT] Why nervous Democrats mistrust positive polling data](https://www.ft.com/content/e6af9912-9179-441d-9c00-5be56b0d89b6)
+0. [[FT] Auditors keep falling into the same trap](https://www.ft.com/content/b4c3db1c-b2a6-4679-a413-6de8eda5feb1)
+0. [[FT] Wirecard’s real business relied on small number of customers](https://www.ft.com/content/7c466351-02fe-4d66-85a1-53d012de7445)
+0. [[FT] Wirecard fallout spreads in UK and Singapore](https://www.ft.com/content/d1ac87e6-0483-4185-8e70-0e5d6206e0eb)
+0. [[FT] Zoom investment shines light on woman behind Li Ka-shing’s tech bets](https://www.ft.com/content/63eb4916-7fd2-4a87-a18d-010533241a75)
+0. [[FT] US companies file for bankruptcy at fastest pace since 2013](https://www.ft.com/content/1591221c-d5c5-45bd-a0bc-e7cbed2144df)
 0. [[TechCrunch] Tim O’Reilly makes a persuasive case for why venture capital is starting to do more harm than good](https://techcrunch.com/2020/06/26/tim-oreilly-makes-a-persuasive-case-for-why-venture-capital-is-starting-to-do-more-harm-than-good/)
 0. [What Is The Morning Writing Effect?](https://www.gwern.net/Morning-writing)
 0. [[FT] Lufthansa to link Covid-19 tests with tickets in effort to avoid quarantine](https://www.ft.com/content/168da1d2-1e52-48d1-85c0-54157fe06434)
