@@ -3,7 +3,14 @@ layout: page
 title: Everything Else
 permalink: /other-links/
 ---
-
+r
+0. [[FT] Look closely at the motives of the Facebook boycotters]()
+0. [[FT] Wirecard bonds set to join infamous ‘no coupon’ club](https://www.ft.com/content/b46a0baf-1134-4432-8015-f2ab6c6eff79)
+0. [[FT] German corporations — and regulation — are in the dock](https://www.ft.com/content/e68d4353-60c5-44e9-b7a6-de01b38179ab)
+0. [[FT] The end of one country, two systems in Hong Kong](https://www.ft.com/content/5d3d7d2e-bba8-11ea-a05d-efc604854c3f)
+0. [[FT] French elections show growing strength of Europe’s Greens](https://www.ft.com/content/3ea4ead5-1973-45cc-939b-f874580b8e38)
+0. [[FT] John Roberts is an institutionalist, not a liberal](https://www.ft.com/content/2248b2e3-b911-48ec-9eeb-632c0c26ab16)
+0. [[FT] Facebook wrestles with advertisers’ demands as boycott escalates](https://www.ft.com/content/2970cf91-dcf7-4424-bdc9-b6d92ad72d67)
 0. [[FT] Raiding the pot: Pandemic deepens pensions crisis](https://www.ft.com/content/ec4babc0-75c5-4d60-a675-ca66de8da8fd)
 0. [[FT] US election: is Trump already too far behind Biden?](https://www.ft.com/content/bd3c99b9-b98f-4d92-9a76-4e660a659c96)
 0. [[FT] Why nervous Democrats mistrust positive polling data](https://www.ft.com/content/e6af9912-9179-441d-9c00-5be56b0d89b6)
