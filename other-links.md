@@ -4,6 +4,9 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[FT] How America could fail its democracy test](https://www.ft.com/content/250c79f3-f1e8-4251-a224-ee819c6a1f6b)
+0. [[FT] Independence Day: a star-spangled superspreader event](https://www.ft.com/content/f761e50b-b12f-476d-8137-82d9fa3877cc)
+0. [[FT] Hundreds arrested across Europe as French police crack encrypted network](https://www.ft.com/content/7006913f-be3d-49b5-8ba7-7c5b78b551b2)
 0. [How Substack has spawned a new class of newsletter entrepreneurs](https://digiday.com/media/how-substack-has-spawned-a-new-class-of-newsletter-entrepreneurse)
 0. [[FT] Look closely at the motives of the Facebook boycotters](https://www.ft.com/content/ffefed51-c82b-4b7a-9671-5bc73edc77a3)
 0. [[FT] Wirecard bonds set to join infamous ‘no coupon’ club](https://www.ft.com/content/b46a0baf-1134-4432-8015-f2ab6c6eff79)
