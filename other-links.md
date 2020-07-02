@@ -3,8 +3,9 @@ layout: page
 title: Everything Else
 permalink: /other-links/
 ---
-r
-0. [[FT] Look closely at the motives of the Facebook boycotters]()
+
+0. [How Substack has spawned a new class of newsletter entrepreneurs](https://digiday.com/media/how-substack-has-spawned-a-new-class-of-newsletter-entrepreneurse)
+0. [[FT] Look closely at the motives of the Facebook boycotters](https://www.ft.com/content/ffefed51-c82b-4b7a-9671-5bc73edc77a3)
 0. [[FT] Wirecard bonds set to join infamous ‘no coupon’ club](https://www.ft.com/content/b46a0baf-1134-4432-8015-f2ab6c6eff79)
 0. [[FT] German corporations — and regulation — are in the dock](https://www.ft.com/content/e68d4353-60c5-44e9-b7a6-de01b38179ab)
 0. [[FT] The end of one country, two systems in Hong Kong](https://www.ft.com/content/5d3d7d2e-bba8-11ea-a05d-efc604854c3f)
