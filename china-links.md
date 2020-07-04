@@ -4,6 +4,8 @@ title: China Related
 permalink: /china-links/
 ---
 
+0. [中华人民共和国香港特别行政区维护国家安全法](http://www.xinhuanet.com/legal/2020-06/30/c_1126179649.htm)
+0. [[WSJ] Hong Kong Security Law Stuns International Business: ‘It Turns Out It Is Really Bad’](https://www.wsj.com/articles/hong-kong-security-law-jolts-international-business-11593715471)
 0. [[WSJ] Chinese Sporting Power Couple Issues Rare Rebuke of Ruling Communist Party](https://www.wsj.com/articles/chinese-sporting-power-couple-issues-rare-rebuke-of-ruling-communist-party-11591797324)
 0. [[FT] Chinese businesses adapt to post-lockdown reality](https://www.ft.com/content/6873359d-d3e2-4cb2-9f61-ca8c262ddaf3)
 0. [[FT] A new global crisis is looming in east Asia](https://www.ft.com/content/2a6555e2-a961-11ea-a766-7c300513fe47)

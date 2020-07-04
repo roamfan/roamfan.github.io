@@ -4,6 +4,11 @@ title: Everything Else
 permalink: /other-links/
 ---
 
+0. [[Nature] A guide to R — the pandemic’s misunderstood metric](https://www.nature.com/articles/d41586-020-02009-w)
+0. [Visualizing COVID-19's Effective Reproduction Number (Rt)](http://metrics.covid19-analysis.org/)
+0. [[Nature] Six months of coronavirus: the mysteries scientists are still racing to solve](https://www.nature.com/articles/d41586-020-01989-z)
+0. [The Hitchhiker's Guide to Logic Verification](https://github.com/blanchette/logical_verification_2020)
+0. [[NYT] A Problem for College in the Fall: Reluctant Professors](https://www.nytimes.com/2020/07/03/us/coronavirus-college-professors.html)
 0. [[FT] How America could fail its democracy test](https://www.ft.com/content/250c79f3-f1e8-4251-a224-ee819c6a1f6b)
 0. [[FT] Independence Day: a star-spangled superspreader event](https://www.ft.com/content/f761e50b-b12f-476d-8137-82d9fa3877cc)
 0. [[FT] Hundreds arrested across Europe as French police crack encrypted network](https://www.ft.com/content/7006913f-be3d-49b5-8ba7-7c5b78b551b2)
